@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
 
-##Install npm
+## Install npm
 
 Run npm install or npm i to install npm and dependency of angular.
 
